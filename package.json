@@ -1,8 +1,8 @@
 {
-  "name": "qdb-database",
+  "name": "matthe-qdb-database",
   "version": "1.0.0",
   "description": "",
-  "main": "jahky.js",
+  "main": "matthe.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

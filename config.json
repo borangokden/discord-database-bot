@@ -1,14 +1,16 @@
 {
     "bot": {
-        "token": "Nzk5MzI2NDU2NDcwOTYyMjM2.YAB8xQ.SjS9jHNU1C_2wkdF0egmg8FTjQ0",
-        "owners": ["618444525727383592"],
-        "prefix": ["."]
+        "tokem": "BOT TOKEN",
+        "owners": ["KURUCU ID"],
+        "prefix": ["!"],
+        "Footer": "YOUTUBE MATTHE",
+        "Durum": "BOT DURUM"
     },
     "Guild": {
-        "GuildID": "835518990351990854"
+        "SunucuID": "SUNUCU ID"
     },
     "channels": {
-        "VoiceChannelID": "896069894238519326",
-        "logchannel": "896514835427242035"
+        "SesKanalıID": "SES KANALI ID",
+        "BackupLog": "BACKUP LOG"
     }
 }

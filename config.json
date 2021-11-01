@@ -1,6 +1,6 @@
 {
     "bot": {
-        "tokem": "BOT TOKEN",
+        "token": "BOT TOKEN",
         "owners": ["KURUCU ID"],
         "prefix": ["!"],
         "Footer": "YOUTUBE MATTHE",
